@@ -140,10 +140,13 @@
 
   .about__devider {
     font-size: 100%;
-    letter-spacing: 9.09px; }
+    letter-spacing: 9.09px; 
+    background: purple;}
 
   .about__text {
-    font-size: 100%; }
+    font-size: 100%; 
+    background: rgb(107, 117, 149);
+    color: #57A;}
 
   .center-text {
     text-align: center;
