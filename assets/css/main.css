@@ -58,12 +58,12 @@
   .logo {
     font-size: 300%;
     font-weight: 700;
-    color: #16a085;
+    color: #57A;
     display: block; }
 
   .menu {
     color: #828282;
-    font-size: 150%;
+    font-size: 200%;
     margin: 0px;
     margin-top: 6px;
     padding: 0px;
@@ -140,13 +140,11 @@
 
   .about__devider {
     font-size: 100%;
-    letter-spacing: 9.09px; 
-    background: purple;}
+    letter-spacing: 9.09px;}
 
   .about__text {
-    font-size: 100%; 
-    background: rgb(107, 117, 149);
-    color: #57A;}
+    font-size: 100%;
+    color: #504877;}
 
   .center-text {
     text-align: center;
