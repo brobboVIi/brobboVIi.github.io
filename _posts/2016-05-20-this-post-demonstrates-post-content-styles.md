@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "This post demonstrates post content styles"
+title: "震惊！不吃它竟然会！！！"
 subtitle: "This is a subtitle"
 date:   2016-05-20 21:21:21 +0530
 categories: junk

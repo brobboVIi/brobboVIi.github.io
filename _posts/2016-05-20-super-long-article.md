@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "Some articles are just so long they deserve a really long title to see if things will break well"
+title:  "不会吧！不会吧！竟然有人没看过这篇文章"
 subtitle: "A shorter explanation of stuff"
 date:   2016-05-20 21:21:21 +0530
 categories: misc
