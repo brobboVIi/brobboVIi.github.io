@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 你好
-subtitle: My name is bro
+title: BLOG
+subtitle: 这里是人间仙境
 sitemap:
   priority: 0.9
 ---
@@ -10,5 +10,5 @@ sitemap:
 
 <div id="describe-text">
 	<p>一段又短又长又感人肺腑的话</p>
-	<p>你是最漂亮的 <strong> <a href="https://github.com/knhash/Pudhina"> 人</a> </strong></p>
+	<p>你是最勇猛霸气的 <strong> <a href="https://github.com/knhash/Pudhina">骑士</a> </strong></p>
 </div>
