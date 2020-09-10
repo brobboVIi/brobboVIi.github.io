@@ -6,7 +6,7 @@ sitemap:
   priority: 0.9
 ---
 
-<img src="{{ '/assets/img/pudhina.jpg' | prepend: site.baseurl }}" id="about-img">
+<img src="{{ '/assets/img/cat.jpg' | prepend: site.baseurl }}" id="about-img">
 
 <div id="describe-text">
 	<p>一段又短又长又感人肺腑的话</p>
