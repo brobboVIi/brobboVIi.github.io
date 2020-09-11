@@ -1,5 +1,5 @@
 ---
-layout: slef
+layout: self
 title: 留言板
 subtitle: 这里的人说话真好听
 ---
