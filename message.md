@@ -6,7 +6,6 @@ subtitle: 这里的人说话真好听
 
 <strong> --- 这里是留言板 --- </strong>
 <form>
-    <input type="text" id="message">
-    </input>
+    <input type="textarea" id="message">
     <input type="submit">
 </form>
